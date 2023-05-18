@@ -1,0 +1,52 @@
+.swiper {
+    width: 600px;
+    height: 300px;
+  }
+  
+  .final{
+      background-color: black;
+      color: white;
+      font-family: Arial, Helvetica, sans-serif;
+    }
+    
+    .stormHaytek {
+        background-color: black;
+  color: white;
+  text-align: center;
+  padding-bottom: 25px;
+  padding-top: 25px;
+  }
+  .bemVindos{
+    background-color:black;
+    padding-left: 50px;
+    color: white;
+  
+  }
+    section{
+        text-align: center;
+        background-color:black;
+    }
+  
+    
+    
+  body{
+        background-color: dimgray;
+    }
+  
+    p,h3 {
+        font-family: Arial, Helvetica, sans-serif;
+        color: white;
+    }
+  
+    a:hover {
+        color: red;
+      }
+      
+      /* selected link */
+      a:active {
+        color: yellow;
+      } 
+  
+      h3{
+        padding-top: 25px;
+      }
